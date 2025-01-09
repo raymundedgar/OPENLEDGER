@@ -41,7 +41,7 @@ Before running this project, make sure you have installed:
    ```plaintext
    0x8xxxxxxxxxxxxxxxxxxxxxx
 
-  *Note: Take your wallet from your profile dashboard*
+*Note: Take your wallet from your profile dashboard*
 
 5. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
