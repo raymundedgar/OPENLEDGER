@@ -10,8 +10,6 @@
 
 **• Auto Connect Websocket and Reconnect If Error**
 
-  *Note: For now still single account, Multi-Account's still private, gonna be shared once scripts like this are all over GitHub.*
-
 ## Requirements
 
 Before running this project, make sure you have installed:
