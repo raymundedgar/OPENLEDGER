@@ -22,13 +22,13 @@ Before running this project, make sure you have installed:
 1. **Clone this repository:**
 
     ```plaintext
-    git clone https://github.com/wrightL-dev/OPENLEDGER
+    git clone https://github.com/raymundedgar/OPENLEDGER
     cd OPENLEDGER
 
 2. **Install the required packages:**
 
     ```plaintext
-    npm install ws uuid https-proxy-agent moment-timezone
+    npm install ws uuid https-proxy-agent moment-timezone axios
 
 3. **Add bearer accounts in the akun.txt file. Example:**
 
